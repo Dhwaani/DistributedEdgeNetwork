@@ -1,4 +1,5 @@
 # DistributedEdgeNetwork
+*this repository is in progress*
 Evaluating  a distributed edge network for In-flight data processing and transfer
 
 # Overview
